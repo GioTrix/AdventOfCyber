@@ -5,6 +5,7 @@ In this repository, you will find solutions to the challenges related to Advent 
 ## 2024
 
 - [Day 1](2024/DAY1.md)
+- [Day 2](2024/DAY2.md)
 
 ## Useful Resources
 
