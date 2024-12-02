@@ -14,7 +14,7 @@ In this repository, you will find solutions to the challenges related to Advento
 
 ### Event Explanation
 
-AdventofCyber is an annual event hosted by TryHackMe, where cybersecurity enthusiasts can participate in a series of daily challenges throughout the month of December. These challenges range from basic to advanced topics, designed to help individuals improve their skills in ethical hacking, penetration testing, and cybersecurity in general.
+Advent of Cyber is an annual event hosted by TryHackMe, where cybersecurity enthusiasts can participate in a series of daily challenges throughout the month of December. These challenges range from basic to advanced topics, designed to help individuals improve their skills in ethical hacking, penetration testing, and cybersecurity in general.
 
 Each day, a new challenge is unlocked, providing a unique learning experience while also allowing participants to test their knowledge and abilities. It’s a fun and interactive way to countdown to Christmas, while building valuable skills in the cybersecurity field.
 
