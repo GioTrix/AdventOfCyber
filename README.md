@@ -1,6 +1,6 @@
-# AdventofCyber
+# Advent of Cyber
 
-In this repository, you will find solutions to the challenges related to AdventofCyber by TryHackMe.
+In this repository, you will find solutions to the challenges related to Advent of Cyber by TryHackMe.
 
 ## 2024
 
