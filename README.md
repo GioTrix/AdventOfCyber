@@ -15,6 +15,7 @@ Participants can track their progress, earn rewards, and compete with others in 
 - [Day 1](2024/DAY1.md)
 - [Day 2](2024/DAY2.md)
 - [Day 3](2024/DAY3.md)
+- [Day 4](2024/DAY4.md)
 
 ## Useful Resources
 
