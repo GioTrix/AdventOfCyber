@@ -47,9 +47,8 @@ Cleanup command: Invoke-AtomicTest T1566.001-1 -cleanup.
 ---
 
 ### What ATT&CK technique ID would be our point of interest?
-Search: *command and scripting interpreter technique*
-https://attack.mitre.org/techniques/T1059/
-- **ID**: [T1059](https://attack.mitre.org/techniques/T1059/)
+Search: *command and scripting interpreter technique* (https://attack.mitre.org/techniques/T1059/)
+- **ID**: T1059
 
 ---
 
