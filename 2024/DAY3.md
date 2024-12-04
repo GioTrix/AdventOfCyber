@@ -1,4 +1,4 @@
-# Day 3: Even if I wanted to go, their vulnerabilities wouldn't allow it.
+# Even if I wanted to go, their vulnerabilities wouldn't allow it.
 ## The story
 Today's AoC challenge follows a rather unfortunate series of events for the Glitch. Here is a little passage which sets the scene for today's task:
 
